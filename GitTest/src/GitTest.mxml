@@ -4,5 +4,6 @@
 					   xmlns:mx="library://ns.adobe.com/flex/mx">
 	<fx:Declarations>
 		<!-- Place non-visual elements (e.g., services, value objects) here -->
+		<!-- change 1 -->
 	</fx:Declarations>
 </s:WindowedApplication>
